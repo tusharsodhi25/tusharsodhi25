@@ -1,4 +1,4 @@
-# Tushar
+# Tushar Sodhi
 Hello!! This is my profile 
 
 <h1 align="center">Hi 👋, I'm Tushar sodhi</h1>

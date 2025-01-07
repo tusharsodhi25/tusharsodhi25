@@ -2,11 +2,9 @@
 Hello!! This is my profile 
 
 <h1 align="center">Hi 👋, I'm Tushar sodhi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharsodhi25&label=Profile%20views&color=0e75b6&style=flat" alt="tusharsodhi25" /> </p>
-
-- 🌱 I’m currently learning **Mern Stack**
 
 - 📫 How to reach me **sodhitushar809@gmail.com**
 
